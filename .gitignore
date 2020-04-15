@@ -19,3 +19,10 @@ __pycache__
 
 /output
 /output/**
+
+## Machine
+.vscode/
+MUJOCO_LOG.TXT
+docker/MUJOCO_LOG.TXT
+docker/mjkey.txt
+
